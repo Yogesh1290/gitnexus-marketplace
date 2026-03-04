@@ -7,8 +7,8 @@
             "name": "GitNexus Assistant",
             "description": "A demo AI assistant app showcasing GitNexus WebContainer deployment with OpenAI API integration.",
             "author": "Yogesh1290",
-            "repo": "https://github.com/Yogesh1290/nexus-pro-nextjs",
-            "bundleUrl": "https://gitnexus-cdn.pages.dev/nexus-pro-nextjs.cjs",
+            "repo": "https://github.com/surajyog/ai-fact-checker",
+            "bundleUrl": "https://factchecker-ab.pages.dev/factchecker.cjs",
             "tags": [
                 "ai",
                 "assistant",
